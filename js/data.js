@@ -3,7 +3,7 @@ var startPlayer = {
 	money: 0.1,
 	moneyPerSecond: 0,
 	netMoneyPerSecond: 0,
-	moneyPerClick: 1,
+	moneyPerClick: 100000,
 	moneyPerAutoclick: 0,
 	clickPower: 1,
 	proofs: 0,
