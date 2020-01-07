@@ -1,6 +1,6 @@
 var startPlayer = {
 	//currencies
-	money: 0.1,
+	money: 1000000,
 	moneyPerSecond: 0,
 	netMoneyPerSecond: 0,
 	moneyPerClick: 100000,
